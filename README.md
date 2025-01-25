@@ -2,6 +2,9 @@
 
 This User Management System is a simple web application that allows users to perform CRUD (Create, Read, Update, Delete) operations. The system interacts with the JSONPlaceholder mock API to simulate backend functionality while providing an intuitive and responsive user interface.
 
+Use it Live :
+https://user-management-dashboard-three-pied.vercel.app
+
 
 Technologies Used
 - Frontend : React.JS, Vanilla CSS, Toastify, Axios
