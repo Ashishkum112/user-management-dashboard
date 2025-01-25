@@ -26,8 +26,8 @@ Features
 Installation
 
 - Clone the Repository
-  git clone https://github.com/your-username/user-management-system.git  
-  cd user-management-system 
+  git clone https://github.com/Ashishkum112/user-management-dashboard.git  
+  cd user-management-dashboard 
 
 - Install Dependencies
 npm install  
