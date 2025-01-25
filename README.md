@@ -26,7 +26,7 @@ Features
 Installation
 
 - Clone the Repository
-  git clone [https://github.com/your-username/user-management-system.git](https://github.com/Ashishkum112/user-management-dashboard.git)
+  git clone https://github.com/Ashishkum112/user-management-dashboard.git
 
   cd user-management-system 
 
